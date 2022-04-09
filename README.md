@@ -37,17 +37,17 @@ me.say_hi()
 
 
 
-### 💻 - My Current Projects's Rempositories:
+### 💻 - My Current Projects's Repositories:
 <div align='center'>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width='41%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=yassine-ct" />
+      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=yassine-ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" width='41%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-" />
+      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
     </a>
 </div>
 
 ### ⌚ - My WakaTime Statistics:
-<a href="https://wakatime.com/@yassine_ct">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=yassine_ct" />
+<a align='center' width='100%' href="https://wakatime.com/@yassine_ct">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
 </a>
