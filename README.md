@@ -3,13 +3,17 @@
 Welcome to my page! <br/>  
 I am Yassine Chettouch, currently pursuing my Digital Developement degree majoring in computer science from NTIC HAY RIAD at Rabat. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <p align='left'>
-    <a href='https://twitter.com/Yassine_ct'><img src='https://img.shields.io/twitter/follow/Yassine_ct?color=%2300acee&label=Follow&logo=Twitter&style=for-the-badge' alt='Twitter'></a>
+    <a href='https://twitter.com/Yassine_ct'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>
     <a href='mailto:yassine_ct@pm.me'><img src='https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white'/></a>
+    <a href='#'><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
+    <a href='#'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/></a>
+    <a href='#'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+    <a href='#'><img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white'/></a>
     <a href='#'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
     <a href='#'><img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'/></a>
 </p>
 
-
+---
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -29,11 +33,12 @@ class WebDeveloper:
 me = WebDeveloper()
 me.say_hi()
 ```
+---
+### 🛠 - Tools & Technologies:
 
-### 🛠 - Technologies:
-
-![](https://img.shields.io/badge/OS-Mac-blue)
-
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
 
 <p align="center" width:'100%'> 
     <img width='50.5%'  src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
