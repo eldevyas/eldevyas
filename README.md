@@ -42,10 +42,10 @@ me.say_hi()
 
 ### 💻 - Check Out My Repos ⬇️:
 <div align='center'>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=yassine-ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+    <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
+      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=MonCV---My-Portfolio&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
       <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
     </a>
 </div>
