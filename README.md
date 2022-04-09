@@ -30,23 +30,23 @@ me.say_hi()
 
 
 <p align="center" width:'100%'> 
-    <img width='50.5%'  src="https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
-    <img width='42.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" alt="abhisheknaiidu" />
+    <img width='50.5%'  src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
+    <img width='42.5%'  src="https://github-readme-stats-beta-seven-64.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" alt="abhisheknaiidu" />
 </p>
 
 <p align='center'>
-    <img align="center" width='46.5%'   src="https://github-readme-stats.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
-    <img align="center" width='46.5%'   src="https://github-readme-stats.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+    <img align="center" width='46.5%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+    <img align="center" width='46.5%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
 </p>
 
 
 ### 💻 - Check Out My Repos ⬇️:
 <div align='center'>
     <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
-      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=MonCV---My-Portfolio&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+      <img align="center" width='46.5%' src="https://github-readme-stats-beta-seven-64.vercel.app/api/pin/?username=yassine-ct&repo=MonCV---My-Portfolio&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
     </a>
     <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
-      <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
+      <img align="center" width='46.5%' src="https://github-readme-stats-beta-seven-64.vercel.app/api/pin/?username=yassine-ct&repo=QLF-&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
     </a>
 </div>
 
