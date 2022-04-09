@@ -29,8 +29,7 @@ me.say_hi()
 
 ### 📊 - Statistics:
 ![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct)](https://github.com/yassine-ct/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact)](https://github.com/yassine-ct/)
 ### 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-)](https://github.com/yassine-ct/QLF-)
