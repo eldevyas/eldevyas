@@ -1,6 +1,6 @@
 # Hi There!
 
-I am Yassine Chettouch, currently pursuing my Digital Developement degree majoring in computer science from ISTA NTIC HAY RIAD at Rabat. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Yassine Chettouch, currently pursuing my Digital Developement degree majoring in computer science from NTIC HAY RIAD at Rabat. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
 
