@@ -1,4 +1,4 @@
-# Hello There!
+# Hi There!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -35,7 +35,10 @@ me.say_hi()
 
 ### 🤍 - My Top Used Languages:
 
+---
 
+| <a href="https://github.com/yassine-ct/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="Yassine's github stats" /></a> | <a href="https://github.com/yassine-ct/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### 💻 - My Current Projects's Repositories:
 <div align='center'>
