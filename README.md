@@ -28,8 +28,26 @@ me.say_hi()
 
 
 ### 📊 - Statistics:
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact)](https://github.com/yassine-ct/)
-### 
+<p align="center" width:'100%'> 
+    <img height='200'  src="https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
+    <img height='200'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" alt="abhisheknaiidu" />
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-)](https://github.com/yassine-ct/QLF-)
+### 🤍 - My Top Used Languages:
+
+
+
+### 💻 - My Current Projects's Rempositories:
+<div align='center'>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=yassine-ct" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" width='45%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=QLF-" />
+    </a>
+</div>
+
+### ⌚ - My WakaTime Statistics:
+<a href="https://wakatime.com/@yassine_ct">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=yassine_ct" />
+</a>
