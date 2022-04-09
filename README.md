@@ -1,5 +1,9 @@
 # Hi There!
 
+I am Yassine Chettouch, people call me Settouch, currently pursuing my Digital Developement degree majoring in computer science from ISTA NTIC HAY RIAD at Rabat. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -36,7 +40,7 @@ me.say_hi()
 </p>
 
 
-### 💻 - My Current Projects's Repositories:
+### 💻 - Check Out My Repos ⬇️:
 <div align='center'>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" width='46.5%' src="https://github-readme-stats.vercel.app/api/pin/?username=yassine-ct&repo=yassine-ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
