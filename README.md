@@ -29,8 +29,8 @@ me.say_hi()
 
 ### 📊 - Statistics:
 <p align="center" width:'100%'> 
-    <img width='45%'  src="https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
-    <img width='37.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" alt="abhisheknaiidu" />
+    <img width='51%'  src="https://github-readme-stats.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=dark&bg_color=70,000,050505&border_radius=5&hide_border=true&include_all_commits=false" alt="abhisheknaiidu" />
+    <img width='42.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" alt="abhisheknaiidu" />
 </p>
 
 ### 🤍 - My Top Used Languages:
