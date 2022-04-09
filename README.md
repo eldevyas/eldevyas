@@ -62,6 +62,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
 ---
 
 <p align="center" width:'100%'> 
@@ -70,10 +71,12 @@ me.say_hi()
 </p>
 
 
-<p align='center'>
-    <img align="center" width='46.5%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
-    <img align="center" width='46.5%'   src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats"/>
+<p align='center' width:'100%'>
+    <img align="center" width='52.75%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+    <img align="center" width='40.25%'   src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
+
+
 
 
 ### 💻 - Check Out My Repos ⬇️:
