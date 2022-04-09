@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm **Yassine Chettouch**!
+
 - 🔭 I’m currently working on a web app starup.
 - 🌱 I’m currently learning React & PHP.
 - 👯 I’m looking to collaborate on Full-stack projects.
