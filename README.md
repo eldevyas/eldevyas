@@ -71,7 +71,7 @@ me.say_hi()
 
 
 <p align='center' width:'100%'>
-    <img align="center" width='52.75%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
+    <img align="center" width='52.75%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine-ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
     <img align="center" width='40.25%'   src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
