@@ -89,5 +89,7 @@ me.say_hi()
 </div>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/yassine-ct/Satisfaction-Survey/pull/1) in [yassine-ct/Satisfaction-Survey](https://github.com/yassine-ct/Satisfaction-Survey)
+<!--END_SECTION:activity-->
 
 
