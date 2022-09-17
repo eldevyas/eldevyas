@@ -79,15 +79,6 @@ me.say_hi()
 
 
 ### 💻 - Check Out My Repos ⬇️:
-<div align='center'>
-    <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
-      <img align="center" width='46.5%' src="https://github-readme-stats-beta-seven-64.vercel.app/api/pin/?username=yassine-ct&repo=MonCV---My-Portfolio&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true" />
-    </a>
-    <a href="https://github.com/yassine-ct/MonCV---My-Portfolio">
-      <img align="center" width='46.5%' src="https://github-readme-stats-beta-seven-64.vercel.app/api/pin/?username=yassine-ct&repo=QLF-&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"" />
-    </a>
-</div>
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/yassine-ct/Satisfaction-Survey/issues/5) in [yassine-ct/Satisfaction-Survey](https://github.com/yassine-ct/Satisfaction-Survey)
 <!--END_SECTION:activity-->
