@@ -15,7 +15,7 @@ I am **Yassine Chettouch**. I am a tech enthusiast & an open-source advocate. I 
 - 🔭 I’m currently working at [Orenzo](https://orenzo.vercel.app) as a Co-founder and Developer
 - 🌱 I’m currently learning more on Back-end technologies
 - 💬 Ask me about **JavaScript, NextJS, React and SASS**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- 📫 How to reach me: [@yassine_ct](https://twitter.com/yassine_ct) on Twitter
 - ⚡ Fun fact: Big Fan of the **BMW Group**
 
 ---
