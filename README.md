@@ -12,6 +12,12 @@ I am **Yassine Chettouch**. I am a tech enthusiast & an open-source advocate. I 
     <a href='https://www.behance.net/yassine_ct' target="_blank"><img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'/></a>
 </p>
 
+- 🔭 I’m currently working at [Orenzo](https://orenzo.vercel.app) as a Co-founder and Developer
+- 🌱 I’m currently learning more on Back-end technologies
+- 💬 Ask me about **JavaScript, NextJS, React and SASS**
+- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- ⚡ Fun fact: Big Fan of the **BMW Group**
+
 ---
 ```python
 #!/usr/bin/python
