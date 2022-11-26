@@ -63,16 +63,11 @@ me.say_hi()
 ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
-
-<p align="center" width:'100%'> 
-    <img width='50.5%'  src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=tokyonight&border_radius=5&hide_border=true&include_all_commits=false"/>
-    <img width='42.5%'  src="https://github-readme-stats-beta-seven-64.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"/>
-</p>
-
-
-<p align='center' width:'100%'>
-    <img align="center" width='52.75%'   src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true&v=2" />
-    <img align="center" width='40.25%'   src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<p align="center">
+    <img src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=tokyonight&border_radius=5&hide_border=true&include_all_commits=false"/>
+    <img src="https://github-readme-stats-beta-seven-64.vercel.app/api/top-langs/?username=yassine-ct&layout=compact&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats-beta-seven-64.vercel.app/api/wakatime?username=yassine_ct&theme=dark&bg_color=70,050505,000&border_radius=5&hide_border=true&v=2" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 
