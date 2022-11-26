@@ -65,8 +65,7 @@ me.say_hi()
 ---
 <p align="center">
     <img src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=tokyonight&border_radius=5&hide_border=true&include_all_commits=false"/>
-
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <!--START_SECTION:waka-->
