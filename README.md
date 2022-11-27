@@ -75,6 +75,11 @@ me.say_hi()
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Other        8 hrs 57 mins   █████████████░░░░░░░░░░░░   52.53 %
+```
+
 <!--END_SECTION:waka-->
 
 
