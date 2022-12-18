@@ -77,9 +77,8 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   20 hrs 7 mins   ████████████░░░░░░░░░░░░░   48.66 %
-PHP              12 hrs 4 mins   ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-Other            8 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Blade Template   15 hrs 45 mins  █████████▒░░░░░░░░░░░░░░░   36.93 %
+Other            15 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   36.75 %
 ```
 
 <!--END_SECTION:waka-->
