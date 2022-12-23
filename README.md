@@ -77,7 +77,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-Other            20 hrs 19 mins  ███████████████▓░░░░░░░░░   62.65 %
+Other            18 hrs 30 mins  ██████████████▒░░░░░░░░░░   56.77 %
 ```
 
 <!--END_SECTION:waka-->
