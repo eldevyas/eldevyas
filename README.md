@@ -77,11 +77,10 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 42 mins   ██████████████░░░░░░░░░░░   55.38 %
-JSON         3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.58 %
-JavaScript   1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-SCSS         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   9 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.22 %
+JSON         5 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+SCSS         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+JavaScript   1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 ```
 
 <!--END_SECTION:waka-->
