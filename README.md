@@ -77,9 +77,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 20 mins   ██████████████████████░░░   87.65 %
-SCSS         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
