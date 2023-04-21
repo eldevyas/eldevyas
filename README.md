@@ -12,11 +12,11 @@ I am **Yassine Chettouch**. I am a tech enthusiast & an open-source advocate. I 
     <a href='https://www.behance.net/yassine_ct' target="_blank"><img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'/></a>
 </p>
 
-- 🔭 I’m currently working at [Orenzo](https://orenzo.vercel.app) as a CEO and Developer
-- 🌱 I’m currently learning more on Back-end technologies
-- 💬 Ask me about **JavaScript, NextJS, React and SASS**
-- 📫 How to reach me: [@yassine_ct](https://twitter.com/yassine_ct) on Twitter
-- ⚡ Fun fact: Big Fan of the **BMW Group**
+- 🔭 I'm a driven CEO and Developer currently working at [Orenzo](https://orenzo.vercel.app), with a passion for building innovative tech solutions.
+- 🌱 Always eager to learn and grow, I'm currently focused on deepening my expertise in back-end technologies.
+- 💬 I'm well-versed in JavaScript, NextJS, React, and SASS, and always happy to chat about these topics and more.
+- 📫 You can connect with me on Twitter at @yassine_ct.
+- ⚡ Fun fact: I'm not just a big fan of the BMW Group, but a true speed enthusiast at heart, with a love for cars, bikes, airplanes, and anything that goes fast!
 
 ---
 ```python
