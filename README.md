@@ -77,11 +77,11 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       40 hrs 39 mins  ██████████████████████▓░░   91.16 %
-PHP              2 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-SCSS             48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JavaScript       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Blade Template   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript       36 hrs 54 mins  ██████████████████████▓░░   90.91 %
+PHP              2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+SCSS             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JavaScript       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Blade Template   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
