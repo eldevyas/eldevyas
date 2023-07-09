@@ -12,7 +12,7 @@ I am **Yassine Chettouch**. I am a tech enthusiast & an open-source advocate. I 
     <a href='https://www.behance.net/yassine_ct' target="_blank"><img src='https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white'/></a>
 </p>
 
-- 🔭 I'm a driven CEO and Developer currently working at [Orenzo](https://orenzo.vercel.app), with a passion for building innovative tech solutions.
+- 🔭 I'm a driven Full-stack Software Developer, with a passion for building innovative tech solutions.
 - 🌱 Always eager to learn and grow, I'm currently focused on deepening my expertise in back-end technologies.
 - 💬 I'm well-versed in JavaScript, NextJS, React, and SASS, and always happy to chat about these topics and more.
 - 📫 You can connect with me on Twitter at @yassine_ct.
@@ -27,7 +27,7 @@ I am **Yassine Chettouch**. I am a tech enthusiast & an open-source advocate. I 
 class WebDeveloper:
 
     def __init__(self):
-        self.name = "Yassine Chettouch"
+        self.name = "YASSINE CHETTOUCH"
         self.role = "Web Developer"
         self.language_spoken = ["ar_MA", "en_US", "fr_FR"]
 
@@ -70,8 +70,8 @@ me.say_hi()
 
 ---
 <p align="center">
-    <img src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=yassine-ct&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=tokyonight&border_radius=5&hide_border=true&include_all_commits=false"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yassine-ct&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=eldevyas&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=tokyonight&border_radius=5&hide_border=true&include_all_commits=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=eldevyas&theme=highcontrast&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <!--START_SECTION:waka-->
@@ -91,7 +91,7 @@ Gosu         27 mins         ▒░░░░░░░░░░░░░░░░
 
 ### 💻 - Check Out My Repos ⬇️:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/yassine-ct/Satisfaction-Survey/issues/5) in [yassine-ct/Satisfaction-Survey](https://github.com/yassine-ct/Satisfaction-Survey)
+1. 🗣 Commented on [#5](https://github.com/eldevyas/Satisfaction-Survey/issues/5) in [yassine-ct/Satisfaction-Survey](https://github.com/eldevyas/Satisfaction-Survey)
 <!--END_SECTION:activity-->
 
 
