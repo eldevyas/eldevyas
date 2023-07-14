@@ -53,7 +53,7 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats-beta-seven-64.vercel.app/api?username=eldevyas&count_private=true&show_icons=true&custom_title=Yassine's%20Github%20Stats:&theme=midnight-purple&border_radius=5&hide_border=true&include_all_commits=false"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=eldevyas&theme=midnight-purple&border_radius=5&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
