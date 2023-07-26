@@ -60,11 +60,11 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 59 mins  ████████████████▓░░░░░░░░   67.18 %
-Python       5 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-Gosu         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript   16 hrs 30 mins  ████████████████████▓░░░░   83.32 %
+Python       2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+Gosu         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
