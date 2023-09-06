@@ -60,11 +60,7 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   43 mins         ███████████████████████▒░   93.10 %
-TypeScript       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-PHP              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Blade Template   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
