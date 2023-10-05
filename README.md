@@ -1,10 +1,3 @@
-# Hey there! Nice to see you.
----
-
-Welcome to my page! I'm **Yassine Chettouch**, a Full-stack Software Developer with a passion for building innovative tech solutions. I have a strong background in JavaScript, Next.js, React, and SASS. I'm always open to collaborating on projects and exploring disruptive ideas.
-
----
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
