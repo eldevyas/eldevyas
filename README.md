@@ -55,8 +55,8 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 26 mins   █████████████████████░░░░   84.29 %
-Ezhil        38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+TypeScript   3 hrs 26 mins   █████████████████████░░░░   84.30 %
+Ezhil        38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
 ```
 
 <!--END_SECTION:waka-->
