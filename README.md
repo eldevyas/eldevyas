@@ -55,10 +55,10 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 20 mins   ███████████████████░░░░░░   75.98 %
-Ezhil        38 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   1 hr 45 mins    ██████████████████████▓░░   90.39 %
+Python       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Ezhil        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
