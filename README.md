@@ -47,10 +47,3 @@ Blade Template   25 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-💻 Check Out My Repos ⬇️:
-<!--START_SECTION:activity-->
-
-🗣 Commented on #5 in eledevyas/Satisfaction-Survey
-
-<!--END_SECTION:activity-->
