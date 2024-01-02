@@ -1,19 +1,3 @@
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class WebDeveloper:
-    def __init__(self):
-        self.name = "YASSINE CHETTOUCH"
-        self.role = "Web Developer"
-        self.language_spoken = ["ar_MA", "en_US", "fr_FR"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! I hope you find some of my work interesting.")
-
-me = WebDeveloper()
-me.say_hi()
-```
 🛠 Tools & Technologies:
 Here are some of the tools and technologies I work with:
 
