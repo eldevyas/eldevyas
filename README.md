@@ -39,11 +39,11 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       7 hrs 45 mins   ██████████████████████░░░   87.34 %
-PHP              16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Other            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Blade Template   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Prisma           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript       9 hrs 42 mins   █████████████████████░░░░   83.62 %
+PHP              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Blade Template   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Prisma           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
