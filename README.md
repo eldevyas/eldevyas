@@ -39,10 +39,10 @@ Here are some of the tools and technologies I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        46 hrs 58 mins  ███████████████████████▓░   95.13 %
-TypeScript   2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Prisma       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other        49 hrs 21 mins  ███████████████████████▒░   93.00 %
+TypeScript   3 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Prisma       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
